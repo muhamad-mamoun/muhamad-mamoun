@@ -5,15 +5,8 @@
 <h1 align="center">Hi, I'm Muhamad Mamoun</h1>
 <h3 align="center">A highly motivated Embedded Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhamad-mamoun&label=Profile%20views&color=0b0b0d&style=flat" alt="muhamad-mamoun" /> </p>
-
-<center>
-  <p>🔭 All of my projects are available at <a href="https://github.com/muhamad-mamoun">muhamad-mamoun</a>, and I’m currently working on <a href="https://github.com/muhamad-mamoun/V2V-project">V2V Communication Project</a></p>
-</center>
-
-<center>
-  <p>📄 Check out my experiences: <a href="https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing">Muhamad Mamoun</a></p>
-</center>
+<h3 align="center">All of my projects are available at [muhamad-mamoun](https://github.com/muhamad-mamoun), And I’m currently working on [V2V Communication Project]([https://github.com/muhamad-mamoun](https://github.com/muhamad-mamoun/V2V-project)</h3>
+<h3 align="center">Check out my experiences: [Muhamad Mamoun]([https://github.com/muhamad-mamoun](https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing))</h3>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
@@ -29,7 +22,4 @@
 
 </div>
 
-<div style="text-align: center;">
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhamad-mamoun&show_icons=true&theme=dark&locale=en" alt="muhamad-mamoun" /></p>
-</div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhamad-mamoun&label=Profile%20views&color=0b0b0d&style=flat" alt="muhamad-mamoun" /> </p>
