@@ -9,8 +9,6 @@
 
 <p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing" target="_blank">Muhamad Mamoun</a>.</p>
 
-<p align="center">Check out my experiences: [Muhamad Mamoun](https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing)</p>
-
 <div style="display: flex; flex-direction: column; align-items: center;">
 
   <h3 align="center">Connect with me:</h3>
