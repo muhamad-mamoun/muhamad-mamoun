@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Muhamad Mamoun</h1>
 <h3 align="center">A highly motivated Embedded Software Engineer</h3>
 
-<h3 align="center">All of my projects are available at [muhamad-mamoun](https://github.com/muhamad-mamoun), And I’m currently working on [V2V Communication Project]([https://github.com/muhamad-mamoun](https://github.com/muhamad-mamoun/V2V-project)</h3>
-<h3 align="center">Check out my experiences: [Muhamad Mamoun]([https://github.com/muhamad-mamoun](https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing))</h3>
+<p align="center">All of my projects are available at [muhamad-mamoun](https://github.com/muhamad-mamoun), And I’m currently working on [V2V Communication Project]([https://github.com/muhamad-mamoun](https://github.com/muhamad-mamoun/V2V-project)</p>
+<p align="center">Check out my experiences: [Muhamad Mamoun]([https://github.com/muhamad-mamoun](https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing))</p>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
