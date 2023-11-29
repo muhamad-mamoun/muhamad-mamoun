@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhamad-mamoun](https://github.com/muhamad-mamoun)
 
-- 📄 Check out my CV: [https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing](https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing)
+- 📄 Check out [my CV](https://drive.google.com/file/d/1w386R0ZREspLkwjG_AXoi2b9bnvRLzfv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
