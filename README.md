@@ -1,14 +1,11 @@
 <div align="center">
-<img src="img/hello_github.gif" align="center" style="width: 100%" />
+<img src="img/hello_github.gif" align="center" style="width: 100" />
 </div>  
-
 
 <h1 align="center">Hi, I'm Muhamad Mamoun</h1>
 <h3 align="center">A highly motivated Embedded Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamad-mamoun&label=Profile%20views&color=b40f1e&style=flat" alt="muhamad-mamoun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamad-mamoun" alt="muhamad-mamoun" /></a> </p>
 
 - 🔭 I’m currently working on [V2V Communication Project](https://github.com/muhamad-mamoun/V2V-project)
 
@@ -27,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamad-mamoun&show_icons=true&theme=dark&locale=en&layout=compact" alt="muhamad-mamoun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamad-mamoun&show_icons=true&locale=en" alt="muhamad-mamoun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-mamoun&" alt="muhamad-mamoun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamad-mamoun&show_icons=true&theme=dark&locale=en" alt="muhamad-mamoun" /></p>
