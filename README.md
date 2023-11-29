@@ -5,7 +5,7 @@
 <h1 align="center">I'm Muhamad Mamoun</h1>
 <h3 align="center">A highly motivated Embedded Software Engineer</h3>
 
-<p align="center">All of my projects are available at <a href="https://github.com/muhamad-mamoun" target="_blank">muhamad-mamoun</a>.</p>
+<p align="center">All of my projects are available at <a href="https://github.com/muhamad-mamoun?tab=repositories" target="_blank">muhamad-mamoun</a>.</p>
 
 <p align="center">And I’m currently working on <a href="https://github.com/muhamad-mamoun/V2V-project" target="_blank">V2V Communication Project</a>.</p>
 
