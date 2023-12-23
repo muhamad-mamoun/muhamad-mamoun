@@ -7,9 +7,9 @@
 
 <p align="center">All of my projects are available at <a href="https://github.com/muhamad-mamoun?tab=repositories" target="_blank">muhamad-mamoun</a>.</p>
 
-<p align="center">And I’m currently working on <a href="https://github.com/muhamad-mamoun/V2V-project" target="_blank">V2V Nexus Project</a>.</p>
+<p align="center">And I’m currently working on <a href="https://github.com/muhamad-mamoun/V2V-project" target="_blank">V2V Nexus</a> Project.</p>
 
-<p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/18TwzDO8h3mudhcL0qiW3ABSFIw0qoOfW/view?usp=sharing" target="_blank">Muhamad Mamoun</a>.</p>
+<p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/18TwzDO8h3mudhcL0qiW3ABSFIw0qoOfW/view?usp=sharing" target="_blank">Muhamad Mamoun Resume</a>.</p>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
