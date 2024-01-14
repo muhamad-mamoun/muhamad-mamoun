@@ -9,7 +9,7 @@
 
 <p align="center">And I’m currently working on <a href="https://github.com/muhamad-mamoun/V2V-project" target="_blank">V2V Nexus</a> Project.</p>
 
-<p align="center">Check out my experiences: <a https://drive.google.com/file/d/10YCtrn3bngmQJuN_fOwLm1QNMTTTzlYR/view?usp=sharing" target="_blank">Muhamad Mamoun Resume</a>.</p>
+<p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/10YCtrn3bngmQJuN_fOwLm1QNMTTTzlYR/view?usp=sharing" target="_blank">Muhamad Mamoun Resume</a>.</p>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
