@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">I'm Muhamad Mamoun</h1>
-<h3 align="center">A highly motivated Embedded Software Engineer</h3>
+<h3 align="center">A highly motivated Software Engineer</h3>
 
 <p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/1_jkypMf1_0bfjbf4zTYoBcmB4LDInK8P/view?usp=sharing" target="_blank">Muhamad Mamoun's Resume</a>.</p>
 
