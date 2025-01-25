@@ -3,7 +3,8 @@
 </div>  
 
 <h1 align="center">I'm Muhamad Mamoun</h1>
-
+<h3 align="center">A highly motivated Software Engineer</h3>
+<p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/1_jkypMf1_0bfjbf4zTYoBcmB4LDInK8P/view?usp=sharing" target="_blank">Muhamad Mamoun's Resume</a>.</p>
 <h3 align="center"> 🛠 Languages and Tools</h3>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -18,10 +19,6 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<h3 align="center">A highly motivated Software Engineer</h3>
-
-<p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/1_jkypMf1_0bfjbf4zTYoBcmB4LDInK8P/view?usp=sharing" target="_blank">Muhamad Mamoun's Resume</a>.</p>
-
 <p align="center">All of my projects are available at <a href="https://github.com/muhamad-mamoun?tab=repositories" target="_blank">muhamad-mamoun</a>.</p>
 
 <p align="center">And I’m currently working on <a href="https://github.com/muhamad-mamoun/MamOS.git" target="_blank">MamOS</a> Project.</p>
