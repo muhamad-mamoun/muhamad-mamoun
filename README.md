@@ -19,9 +19,6 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<p align="center">All of my projects are available at <a href="https://github.com/muhamad-mamoun?tab=repositories" target="_blank">muhamad-mamoun</a>.</p>
-
-<p align="center">And I’m currently working on <a href="https://github.com/muhamad-mamoun/MamOS.git" target="_blank">MamOS</a> Project.</p>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
