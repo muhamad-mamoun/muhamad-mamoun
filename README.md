@@ -1,10 +1,7 @@
 <h1 align="center">Aloha There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, This is Mamoun</h1>
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=EAEAEA&center=true&vCenter=true&width=500&lines=Cloud%2FDevOps+Engineer;Embedded+Software+Engineer;Software+Engineer" alt="Typing SVG" /></div>
-
-<h3 align="center">A highly motivated Software Engineer</h3>
-<p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/1_jkypMf1_0bfjbf4zTYoBcmB4LDInK8P/view?usp=sharing" target="_blank">Muhamad Mamoun's Resume</a>.</p>
 <h3 align="center"> 🛠 Languages and Tools</h3>
-<div align="center">
+<div align="center" width="80%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
