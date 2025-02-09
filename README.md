@@ -1,8 +1,6 @@
-<div align="center">
-<img src="hello_github.gif" align="center" style="width: 100" />
-</div>  
+<h1 align="center">Aloha There, This is Mamoun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center"><img src="job-titles.svg" align="center"/></div>
 
-<h1 align="center">This is Mamoun</h1>
 <h3 align="center">A highly motivated Software Engineer</h3>
 <p align="center">Check out my experiences: <a href="https://drive.google.com/file/d/1_jkypMf1_0bfjbf4zTYoBcmB4LDInK8P/view?usp=sharing" target="_blank">Muhamad Mamoun's Resume</a>.</p>
 <h3 align="center"> 🛠 Languages and Tools</h3>
